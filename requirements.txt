@@ -1,0 +1,19 @@
+# Görüntü İşleme & AI
+opencv-python
+numpy
+pyzbar
+pymupdf
+
+# Bot & Web Scraping
+requests
+python-telegram-bot
+beautifulsoup4
+
+# Otomasyon & GUI
+PyQt5
+pygame
+pyautogui
+pynput
+
+# Çevre Değişkenleri Yönetimi
+python-dotenv

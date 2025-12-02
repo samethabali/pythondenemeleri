@@ -1,0 +1,23 @@
+@"
+# Güvenlik (Şifreler)
+.env
+
+# Gereksiz Derleme ve Önbellek Dosyaları
+__pycache__/
+*.pyc
+*.spec
+
+# Build ve Exe Klasörleri
+dist/
+build/
+*.exe
+
+# IDE Ayarları
+.idea/
+
+# Veritabanı
+*.db
+
+# Büyük Yapay Zeka Eğitim Logları (YOLO runs klasörü)
+runs/
+"@ | Out-File -Encoding utf8 .gitignore
