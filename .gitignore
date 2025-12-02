@@ -21,3 +21,12 @@ build/
 # Büyük Yapay Zeka Eğitim Logları (YOLO runs klasörü)
 runs/
 "@ | Out-File -Encoding utf8 .gitignore
+
+
+# Resimler (YENİ EKLENDİ - Bunlar yüklenmeyecek)
+img/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+"@ | Out-File -Encoding utf8 .gitignore
